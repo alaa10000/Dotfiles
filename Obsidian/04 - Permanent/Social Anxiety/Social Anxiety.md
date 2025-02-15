@@ -1,0 +1,1 @@
+Focus on other people instead of yourself. Notice their body language, their posture, what they are doing, etc. Prove to yourself that no one is watching you.
