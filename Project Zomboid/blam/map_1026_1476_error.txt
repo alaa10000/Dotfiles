@@ -1,0 +1,14 @@
+java.lang.RuntimeException: java.lang.NullPointerException: Cannot invoke "zombie.core.textures.Texture.getName()" because the return value of "zombie.inventory.InventoryItem.getTex()" is null
+	at zombie.iso.IsoGridSquare.load(IsoGridSquare.java:3748)
+	at zombie.iso.IsoChunk.LoadFromDiskOrBuffer(IsoChunk.java:3730)
+	at zombie.iso.IsoChunk.LoadFromDisk(IsoChunk.java:3554)
+	at zombie.iso.IsoChunk.LoadOrCreate(IsoChunk.java:2294)
+	at zombie.iso.WorldStreamer.DoChunkAlways(WorldStreamer.java:613)
+	at zombie.iso.WorldStreamer.DoChunk(WorldStreamer.java:591)
+	at zombie.iso.WorldStreamer.threadLoop(WorldStreamer.java:483)
+	at zombie.iso.WorldStreamer.lambda$create$0(WorldStreamer.java:544)
+	at java.base/java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.NullPointerException: Cannot invoke "zombie.core.textures.Texture.getName()" because the return value of "zombie.inventory.InventoryItem.getTex()" is null
+	at zombie.iso.objects.IsoWorldInventoryObject.load(IsoWorldInventoryObject.java:515)
+	at zombie.iso.IsoGridSquare.load(IsoGridSquare.java:3739)
+	... 8 more
