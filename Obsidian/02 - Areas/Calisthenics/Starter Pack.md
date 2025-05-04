@@ -1,4 +1,5 @@
 #### Hypertrophy
+
 - Lighter / Less weight
 - Easier
 - Till failure
@@ -19,7 +20,12 @@ Ex: If you're struggling with dips, you should aim to create hypertrophy with pu
 - Stop as soon as form/quality starts to break
 - Quality over quantity
 - Sets doesn't matter
-- 1 to 6 perfect reps
+- 1 to 8 perfect reps
 - Try to the movement reps fast without sacrificing form
 
 Rest: 3-5 minutes (minimum 3)
+
+#### Plan
+
+1. Achieve: 15 pull ups and 4 handstand push ups
+2.  Train Planche and Front lever daily
