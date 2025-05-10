@@ -1,2 +1,0 @@
-I honestly think that the Love/Belonging stage is the one i need to fulfill. Currently I only have like one true friend between all the fake, toxic ones. So I need to make new friends and develop new connections. I also want to fulfill the love part and get closer to girls.
-The big fucking problem that is currently holding me from achieving these dreams is Social anxiety. So the first thing i must do is target it and make it disappear.
