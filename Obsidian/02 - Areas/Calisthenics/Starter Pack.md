@@ -25,7 +25,11 @@ Ex: If you're struggling with dips, you should aim to create hypertrophy with pu
 
 Rest: 3-5 minutes (minimum 3)
 
+
+#### The Golden Rule
+Train as **specific** as possible, as **intense** as possible, as **frequently** as possible while being able to **recover**.
+
 #### Plan
 
 1. Achieve: 15 pull ups and 4 handstand push ups
-2.  Train Planche and Front lever daily
+2.  Train planche and Front lever daily

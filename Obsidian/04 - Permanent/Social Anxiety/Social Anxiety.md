@@ -1,1 +1,9 @@
-Focus on other people instead of yourself. Notice their body language, their posture, what they are doing, etc. Prove to yourself that no one is watching you.
+
+Exposure Therapy:
+1. Actively expose yourself to situations that trigger your social anxiety.
+2. Have catastrophic thoughts.
+3. Reality check the catastrophic thoughts.
+
+Safety behaviors ruin exposures and reinforce anxiety.
+
+When anxious, accept yourself and the anxiety then focus on the world

@@ -1,0 +1,3 @@
+ 1. Be vigilante, Inspect and try to find flaws, cracks or weak areas like thoughts or behaviors that damage and weaken you. So, plan the battles.
+2. Have a routine so you skip making decisions during the battle. Every decision and doubt consumes power and energy. those who hesitate, die. So, fit things into your day as part of your identity.
+3. If you fail then give yourself real consequences and pain so it understands that failing isn't an option. For example, you must give money to someone or tell everyone that you failed.

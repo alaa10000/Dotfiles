@@ -1,4 +1,4 @@
-- have a purpose (mission) 
+- have a purpose (mission) = Computers/coding
 
 - have goals 
 	- obsess over them 

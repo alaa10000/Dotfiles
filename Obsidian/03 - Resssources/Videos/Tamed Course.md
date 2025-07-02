@@ -1,4 +1,4 @@
-# Tamed Course
+## Tamed Course
 
 1. Remove bad habits by focusing your energy on building new good ones. For example, every time you get the urge to fap, go for a walk or eat your favorite snack.
 
