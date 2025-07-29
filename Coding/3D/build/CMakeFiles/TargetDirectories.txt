@@ -1,3 +1,0 @@
-/home/alaa/Coding/3D/build/CMakeFiles/my_project.dir
-/home/alaa/Coding/3D/build/CMakeFiles/edit_cache.dir
-/home/alaa/Coding/3D/build/CMakeFiles/rebuild_cache.dir
