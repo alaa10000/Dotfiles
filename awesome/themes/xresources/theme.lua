@@ -16,7 +16,7 @@ local themes_path = gfs.get_themes_dir()
 local theme = dofile(themes_path.."default/theme.lua")
 -- load vector assets' generators for this theme
 
-theme.font          = "sans 8"
+theme.font          = "JetBrainsMono Nerd Font 8"
 
 theme.bg_normal     = xrdb.background
 theme.bg_focus      = xrdb.color12
@@ -96,12 +96,10 @@ theme = theme_assets.recolor_titlebar(
 
 -- Define the icon theme for application icons. If not set then the icons
 -- from /usr/share/icons and /usr/share/icons/hicolor will be used.
-theme.icon_theme = nil
+theme.icon_theme = "Papirus"
 
 -- Generate Awesome icon:
-theme.awesome_icon = theme_assets.awesome_icon(
-    theme.menu_height, theme.bg_focus, theme.fg_focus
-)
+theme.awesome_icon = "Images/Icons/windows-icon-png-5819.png"
 
 -- Generate taglist squares:
 local taglist_square_size = dpi(4)
@@ -120,48 +118,7 @@ end
 local is_dark_bg = (bg_numberic_value < 383)
 
 -- Generate wallpaper:
-local wallpaper_bg = xrdb.color8
-local wallpaper_fg = xrdb.color7
-local wallpaper_alt_fg = xrdb.color12
-if not is_dark_bg then
-    wallpaper_bg, wallpaper_fg = wallpaper_fg, wallpaper_bg
-end
-
-local rsvg = pcall(function() return require("lgi").Rsvg end)
-
-if rsvg then
-    local handle = require("lgi").Rsvg.Handle.new_from_file(
-        themes_path.."xresources/wallpaper.svg"
-    )
-
-    if handle then
-        handle:set_stylesheet([[
-            .normal {
-                fill: ]]..wallpaper_fg..[[;
-            }
-            .background {
-                fill: ]]..wallpaper_bg..[[;
-                stroke: ]]..wallpaper_bg..[[;
-            }
-            .logo {
-                fill: ]]..wallpaper_alt_fg..[[;
-            }
-        ]])
-
-        theme.wallpaper = handle
-    end
-else
-    gdebug.print_warning("Could not load the wallpaper: librsvg is not installed.")
-end
-
-if not theme.wallpaper then
-    gdebug.print_warning("Loading fallback wallpaper.")
-    theme.wallpaper = function(s)
-        return theme_assets.wallpaper(wallpaper_bg, wallpaper_fg, wallpaper_alt_fg, s)
-    end
-end
-
-theme.wallpaper_bg = wallpaper_bg
+theme.wallpaper = "~/Images/Wallpapers/"
 
 -- Set different colors for urgent notifications.
 rnotification.connect_signal('request::rules', function()
