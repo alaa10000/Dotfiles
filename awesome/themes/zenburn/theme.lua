@@ -9,19 +9,20 @@ local dpi = require("beautiful.xresources").apply_dpi
 
 -- {{{ Main
 local theme = {}
-theme.wallpaper = "/home/alaa/.config/awesome/themes/zenburn/green-wallpaper.jpg"
+theme.wallpaper = "~/.config/awesome/themes/zenburn/green-wallpaper.jpg"
 -- }}}
 
 -- {{{ Styles
-theme.font      = "sans 8"
+theme.font      = "JetBrainsMono Nerd Font 8"
+-- }}}
 
 -- {{{ Colors
-theme.fg_normal  = "#DCDCCC"
-theme.fg_focus   = "#F0DFAF"
+theme.fg_normal  = "#515151"
+theme.fg_focus   = "#87ad95"
 theme.fg_urgent  = "#CC9393"
-theme.bg_normal  = "#3F3F3F"
-theme.bg_focus   = "#1E2320"
-theme.bg_urgent  = "#3F3F3F"
+theme.bg_normal  = "#00000000"
+theme.bg_focus   = "#00000000"
+theme.bg_urgent  = "#00000000"
 theme.bg_systray = theme.bg_normal
 -- }}}
 
