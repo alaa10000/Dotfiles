@@ -1,0 +1,3 @@
+/home/alaa/Coding/Project/build/CMakeFiles/my_project.dir
+/home/alaa/Coding/Project/build/CMakeFiles/edit_cache.dir
+/home/alaa/Coding/Project/build/CMakeFiles/rebuild_cache.dir
