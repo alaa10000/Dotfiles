@@ -1,1 +1,0 @@
-an obsidian vault with all the subjects that exists that you can get access to with a subscription.
