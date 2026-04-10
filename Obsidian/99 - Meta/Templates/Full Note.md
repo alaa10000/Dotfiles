@@ -1,9 +1,0 @@
-{{date}} {{time}}
-
-# {{Title}}
-
-
-
-
-
-# Reference

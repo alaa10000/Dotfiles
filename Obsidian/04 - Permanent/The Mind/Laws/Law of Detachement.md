@@ -1,1 +1,0 @@
-Enjoy the present even if it always stay like that.

@@ -1,1 +1,0 @@
-There are little things in your childhood that directed you a little bit. Mostly the things you really likes and the things you really hated. For example, maybe when you were a kid you were fascinated by words and how they sound and you found yourself trying to form stories and stuff. So, when you grew up you wrote books and read a lot. This is your purpose.
