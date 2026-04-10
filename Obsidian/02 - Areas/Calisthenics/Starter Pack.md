@@ -26,8 +26,15 @@ Ex: If you're struggling with dips, you should aim to create hypertrophy with pu
 Rest: 3-5 minutes (minimum 3)
 
 
+#### Program
+Splits: Push/Pull/Leg, Full body split, Skill split.
+
+
 #### The Golden Rule
 Train as **specific** as possible, as **intense** as possible, as **frequently** as possible while being able to **recover**.
+
+
+
 
 #### Plan
 

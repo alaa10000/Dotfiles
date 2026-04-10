@@ -14,7 +14,7 @@
   "note-composer": true,
   "command-palette": true,
   "slash-command": false,
-  "editor-status": true,
+  "editor-status": false,
   "bookmarks": true,
   "markdown-importer": false,
   "zk-prefixer": false,
@@ -27,5 +27,7 @@
   "file-recovery": true,
   "publish": false,
   "sync": true,
-  "webviewer": false
+  "webviewer": false,
+  "footnotes": false,
+  "bases": true
 }

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c3d992617cecf1ae",
+        "id": "9ed4857ec6ace1e1",
         "type": "tabs",
         "children": [
           {
-            "id": "4b5ad0352998d7a2",
+            "id": "502af4fb98737234",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -49,7 +49,7 @@
             }
           },
           {
-            "id": "ca8f1e5f2b9c0240",
+            "id": "db307c3059e798ca",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -66,7 +66,7 @@
             }
           },
           {
-            "id": "de89ddd2998cb46a",
+            "id": "48fcb55d4ddd4dad",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -79,23 +79,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ea67095253ec1d47",
     "type": "split",
     "children": [
       {
-        "id": "11d2d70ae39d6817",
+        "id": "f80025836af6790f",
         "type": "tabs",
         "children": [
           {
-            "id": "7ae77d1529eafa7d",
+            "id": "4d5b1633e86088e9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Me/Hobbies.md",
+                "file": "01 - Me/Steps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,11 +106,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Hobbies"
+              "title": "Backlinks for Steps"
             }
           },
           {
-            "id": "4ba62332cbe037ba",
+            "id": "7f6f6e59b3dc9d9b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -123,7 +124,7 @@
             }
           },
           {
-            "id": "320c2a02b1976771",
+            "id": "c9115daa40fb538c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -138,32 +139,21 @@
             }
           },
           {
-            "id": "0c5de8bf888cefdf",
+            "id": "e7d9e17eccf3e8e4",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Me/Hobbies.md",
+                "file": "01 - Me/Steps.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Hobbies"
-            }
-          },
-          {
-            "id": "03242bc3bd1d8030",
-            "type": "leaf",
-            "state": {
-              "type": "planner-timeline",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Timeline"
+              "title": "Outline of Steps"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -178,52 +168,48 @@
       "daily-notes:Open today's daily note": true,
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
-      "canvas:Create new canvas": false,
-      "code-files:Create Code File": false,
-      "obsidian-day-planner:Open Timeline": false,
-      "obsidian-day-planner:Open Multi-Day View": false,
-      "terminal:Open terminal": false
+      "canvas:Create new canvas": false
     }
   },
-  "active": "4b5ad0352998d7a2",
+  "active": "502af4fb98737234",
   "lastOpenFiles": [
-    "04 - Permanent/The Mind/Paradigms/The Paradigm.md",
     "01 - Me/Steps.md",
-    "04 - Permanent/The Mind/Realities/Untitled.md",
-    "99 - Meta/Images/Stickperson-2988747922.png",
-    "04 - Permanent/The Mind/Identity/Untitled.md",
-    "01 - Me/Identity/Habits.md",
-    "01 - Me/Identity/Hobbies.md",
-    "01 - Me/Ideas/Gratitude.md",
-    "01 - Me/Identity",
-    "01 - Me/Ideas/Change.md",
-    "01 - Me/Ideas",
-    "01 - Me/Ideas/Business Ideas.md",
-    "01 - Me/Ideas/Books to Read.md",
-    "04 - Permanent/The Mind/Traits/Masculinity.md",
-    "04 - Permanent/The Mind/Traits/Flow state.md",
-    "04 - Permanent/The Mind/Anxiety/Cognitive Anxiety.md",
-    "04 - Permanent/The Mind/Anxiety/Social Anxiety.md",
-    "04 - Permanent/The Mind/Anxiety/Somatic Anxiety.md",
-    "04 - Permanent/The Mind/Beliefs/Changing Beliefs.md",
-    "04 - Permanent/The Mind/Beliefs/Beliefs.md",
     "04 - Permanent/Body/Posture/Anterior Pelvic Tilt.md",
+    "04 - Permanent/Body/Face/Mewing.md",
+    "04 - Permanent/Body/Posture",
+    "04 - Permanent/Body/Getting Taller.md",
+    "01 - Me/Change.md",
+    "01 - Me/Gratitude.md",
+    "01 - Me/Habits.md",
+    "01 - Me/Hobbies.md",
+    "01 - Me/make an essay.md",
     "02 - Areas/Calisthenics/Workout.md",
-    "02 - Areas/Coding/notes.md",
-    "02 - Areas/Crypto/Crypto.md",
-    "02 - Areas/Crypto/Strategy.md",
+    "02 - Areas/Calisthenics/Starter Pack.md",
+    "01 - Me/Workout.md",
     "02 - Areas/Crypto/Strategies.md",
-    "03 - Resssources/Videos/Guides/Full Masculinity Guide Become A Man/Notes.md",
-    "01 - Me/Ideas/make an essay.md",
-    "2026-04-03.md",
-    "My Code File.cpp",
-    "04 - Permanent/The Mind/Realities",
-    "04 - Permanent/The Mind/Beliefs",
-    "04 - Permanent/The Mind/Identity",
-    "04 - Permanent/The Mind/Laws",
-    "Saad",
-    "main.cpp",
-    "Code.cpp.ts",
+    "02 - Areas/Crypto/Strategy.md",
+    "02 - Areas/Crypto/Crypto.md",
+    "04 - Permanent/The Mind/Traits/Communication/Improve Your Speaking.md",
+    "04 - Permanent/The Mind/Paradigms/The Paradigm.md",
+    "04 - Permanent/The Mind/Mind/Attitude.md",
+    "04 - Permanent/The Mind/Mind/The Mind.md",
+    "04 - Permanent/The Mind/Mind/The Attitude.md",
+    "04 - Permanent/The Mind/Mind/Higher Faculties.md",
+    "04 - Permanent/The Mind/Anxiety/Cognitive Anxiety.md",
+    "04 - Permanent/The Mind/Anxiety/Somatic Anxiety.md",
+    "04 - Permanent/The Mind/Anxiety/Social Anxiety.md",
+    "04 - Permanent/The Mind/Habits/Overcoming Addictions.md",
+    "01 - Me/Business Ideas.md",
+    "04 - Permanent/Body",
+    "04 - Permanent/The Mind/Anxiety",
+    "04 - Permanent/The Mind/Emotions",
+    "04 - Permanent/The Mind/Mind",
+    "04 - Permanent/The Mind/Paradigms",
+    "99 - Meta/Images/Stickperson-2988747922.png",
+    "04 - Permanent/Body/Face",
+    "a/File.base",
+    "a/Untitled.base",
+    "Untitled.base",
     "Untitled.canvas"
   ]
 }

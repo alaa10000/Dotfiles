@@ -1,6 +1,8 @@
 Observe great speakers and study their voice attraction. 
 
-Speak slowly and clearly with proper pronunciation for effective communication. 
+Speak slowly and clearly with proper pronunciation and articulation for effective communication.
+
+Use pauses.
 
 Use storytelling as a conversational style. 
 

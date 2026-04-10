@@ -3,7 +3,7 @@
   "accentColor": "#41af70",
   "cssTheme": "",
   "showRibbon": false,
-  "showViewHeader": true,
+  "showViewHeader": false,
   "interfaceFontFamily": "Adwaita Sans",
   "textFontFamily": "Adwaita Sans"
 }

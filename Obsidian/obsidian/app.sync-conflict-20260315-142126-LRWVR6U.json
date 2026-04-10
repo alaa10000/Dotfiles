@@ -2,8 +2,9 @@
   "readableLineLength": false,
   "strictLineBreaks": false,
   "vimMode": true,
-  "showLineNumber": true,
+  "showLineNumber": false,
   "showIndentGuide": true,
   "rightToLeft": false,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "propertiesInDocument": "visible"
 }

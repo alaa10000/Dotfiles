@@ -1,6 +1,6 @@
 Cognitive anxiety is only exists in the mind and its vehicle is thoughts.
 
-It ca cause: racing and looping thoughts, worst case scenarios.
+It can cause: racing and looping thoughts, worst case scenarios.
 
 ~ you can't solve it just by thinking harder ~
 
